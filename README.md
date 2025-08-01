@@ -1,12 +1,14 @@
 # Flight Delay Analysis Project
 
+**Author:** Sourav
+
 ## Tools & Technologies
 - **SQL**: Data processing, KPI development
 - **Tableau / Power BI**: Interactive dashboards, visualizations
 - **Excel**: Data cleaning, reporting, visualizations
 
 ## Overview
-This project analyzes **1.05 million flight records (2022)** to identify and address operational inefficiencies in the U.S. aviation industry. Using SQL, Excel, Tableau, and Power BI, it extracts, transforms, and visualizes data to provide actionable insights for reducing delays, optimizing schedules, and improving passenger satisfaction.
+This project analyzes **1.05 million flight records (2022)** to uncover and address operational inefficiencies in the U.S. aviation industry. Leveraging SQL, Excel, Tableau, and Power BI, the project extracts, transforms, and visualizes data to deliver actionable insights for reducing delays, optimizing schedules, and improving passenger satisfaction.
 
 ## Key KPIs Addressed
 1. **Weekday vs. Weekend** flight statistics
